@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d66f8a68c6f6614cb6d9aa85851aa58, type: 3}
+  m_Name: Projectile Test
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 2501435341358058632, guid: ba3e36b16f94a8e4599a60df4f6b3978, type: 3}
+  <DamageRange>k__BackingField: {x: 0, y: 0}
+  <Speed>k__BackingField: 10
