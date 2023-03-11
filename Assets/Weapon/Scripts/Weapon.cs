@@ -29,7 +29,7 @@ namespace Loki.Weapon.Base {
                 // If our weapon has a projectile prefab defined (if it isn't a melee weapon)
                 if (config.Bullet != null){
                     // Spawn a projectile and propel it
-                    Instantiate(config.Bullet).GetComponent<Projectile>().Propel();
+                    Instantiate(config.Bullet).GetComponent<Projectile>().Activate();
                 }
 
                 // Play animation

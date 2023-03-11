@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Weapon Test
   m_EditorClassIdentifier: 
   <Bullet>k__BackingField: {fileID: 2501435341358058632, guid: ba3e36b16f94a8e4599a60df4f6b3978, type: 3}
-  <StartingUses>k__BackingField: 10
+  <StartingUses>k__BackingField: 100

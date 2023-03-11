@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d66f8a68c6f6614cb6d9aa85851aa58, type: 3}
   m_Name: Projectile Test
   m_EditorClassIdentifier: 
-  <Prefab>k__BackingField: {fileID: 2501435341358058632, guid: ba3e36b16f94a8e4599a60df4f6b3978, type: 3}
   <DamageRange>k__BackingField: {x: 0, y: 0}
   <Speed>k__BackingField: 10
+  <Spread>k__BackingField: 10
