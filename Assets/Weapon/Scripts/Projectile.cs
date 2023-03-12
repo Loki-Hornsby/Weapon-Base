@@ -1,3 +1,8 @@
+/// <summary>
+/// Made by Loki Alexander Button Hornsby
+/// Licensed under the BSD 3-Clause "New" or "Revised" License
+/// </summary>
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
